@@ -7,7 +7,7 @@ body{
     color: yellow;
     font-family: sans-serif ;
     margin: auto;
-    padding: auto;
+    padding:10px;
     height: 50px;
     width: 400px;
     box-sizing: border-box;
