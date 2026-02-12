@@ -1,5 +1,7 @@
 .head{
     text-align: center;
+    background-color: skyblue;
+    color: thistle;
 }
 .recipe-1{
     color: red;
